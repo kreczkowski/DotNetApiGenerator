@@ -1,0 +1,11 @@
+D:\source\github\DotNetApiGenerator\DotNetApiGenerator\bin\Debug\netcoreapp2.1\DotNetApiGenerator.deps.json
+D:\source\github\DotNetApiGenerator\DotNetApiGenerator\bin\Debug\netcoreapp2.1\DotNetApiGenerator.runtimeconfig.json
+D:\source\github\DotNetApiGenerator\DotNetApiGenerator\bin\Debug\netcoreapp2.1\DotNetApiGenerator.runtimeconfig.dev.json
+D:\source\github\DotNetApiGenerator\DotNetApiGenerator\bin\Debug\netcoreapp2.1\DotNetApiGenerator.dll
+D:\source\github\DotNetApiGenerator\DotNetApiGenerator\bin\Debug\netcoreapp2.1\DotNetApiGenerator.pdb
+D:\source\github\DotNetApiGenerator\DotNetApiGenerator\obj\Debug\netcoreapp2.1\DotNetApiGenerator.csproj.CoreCompileInputs.cache
+D:\source\github\DotNetApiGenerator\DotNetApiGenerator\obj\Debug\netcoreapp2.1\DotNetApiGenerator.AssemblyInfoInputs.cache
+D:\source\github\DotNetApiGenerator\DotNetApiGenerator\obj\Debug\netcoreapp2.1\DotNetApiGenerator.AssemblyInfo.cs
+D:\source\github\DotNetApiGenerator\DotNetApiGenerator\obj\Debug\netcoreapp2.1\DotNetApiGenerator.dll
+D:\source\github\DotNetApiGenerator\DotNetApiGenerator\obj\Debug\netcoreapp2.1\DotNetApiGenerator.pdb
+D:\source\github\DotNetApiGenerator\DotNetApiGenerator\obj\Debug\netcoreapp2.1\DotNetApiGenerator.csprojAssemblyReference.cache
